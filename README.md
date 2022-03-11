@@ -2,7 +2,7 @@ Hi, I’m @valenzandoli
 
 I'm an industrial engineering student who is currently learning Python, Data Science and Machine Learning
 
-You can reach me on Twitter as @_valenzandoli
+You can reach me on Twitter as @valenzandoli_
 
 <!---
 valenzandoli/valenzandoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
