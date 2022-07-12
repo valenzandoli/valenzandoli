@@ -5,7 +5,7 @@ I'm an industrial engineering student who is currently learning:
  - Data Science 📊
  - Machine Learning 🤖
 
-You can reach me on Twitter as @valenzandoli_ or take a look at my kaggle profile at kaggle.com/valentinzandoli
+You can reach me on Twitter as @valenzandoli_ or take a look at my Kaggle profile at kaggle.com/valentinzandoli
 
 <!---
 valenzandoli/valenzandoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
